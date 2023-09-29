@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\bin\Debug\net7.0\ExercList.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\bin\Debug\net7.0\ExercList.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\bin\Debug\net7.0\ExercList.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\bin\Debug\net7.0\ExercList.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\bin\Debug\net7.0\ExercList.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\refint\ExercList.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ExercList.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExercList\obj\Debug\net7.0\ref\ExercList.dll
